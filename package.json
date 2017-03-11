@@ -1,0 +1,16 @@
+{
+  "name": "hamming-code",
+  "version": "0.0.1",
+  "description": "hamming-code allows you to encode and decode binary strings codes with hamming code algorithm",
+  "main": "hamming-code.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": [
+    "hamming",
+    "hammingcode",
+    "correcting",
+    "codes"
+  ],
+  "author": "georgelviv",
+  "license": "MIT"
+}
