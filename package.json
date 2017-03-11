@@ -12,5 +12,9 @@
     "codes"
   ],
   "author": "georgelviv",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/georgelviv/hamming-code.git"
+  }
 }
